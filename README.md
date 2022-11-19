@@ -1,1 +1,2 @@
 # Cryptocurrencies
+The purpose of this project was to create an analysis for clients who are preparing to get into the cryptocurrency market. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers.  Using a clustering algorithim I created a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. 
